@@ -1,4 +1,4 @@
-def genfibo(n):
+def genfib(n):
     a,b=0,1
     while(n!=0):
         yield a
